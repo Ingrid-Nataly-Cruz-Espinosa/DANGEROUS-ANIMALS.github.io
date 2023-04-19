@@ -1,0 +1,20 @@
+{
+    "lang": "en-us",
+    "name": "DANGEROUS ANIMALS",
+    "short_name": "Explora el mundo con seguridad",
+    "description": "Te ayudamos a hacer de tu aventura algo seguro",
+    "start_url": "/",
+    "background_color": "#2f3d58",
+    "theme_color": "#2f3d58",
+    "orientation": "any",
+    "display": "standalone",
+    "display_override": [
+        "window-controls-overlay"
+      ],
+    "icons": [
+        {
+            "src": "/icono.png",
+            "sizes": "512x512"
+        }
+    ]
+}
